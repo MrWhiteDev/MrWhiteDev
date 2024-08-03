@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on nothing currently
 - 🌱 I’m currently learning python
-- 💾 Into old computers
+- 🏝️ Into Dragon Ball Z
 - ⚡ Fun fact: there is none deal with it.
   
