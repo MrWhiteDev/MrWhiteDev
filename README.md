@@ -7,5 +7,5 @@
 
 - Website: (UNDER CONSTRUCTION)
 - Gitlab profile:
-- BitBucker profile: (none currently)
+- BitBucket profile: (none currently)
   
