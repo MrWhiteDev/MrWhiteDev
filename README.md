@@ -6,6 +6,6 @@
 - ⚡ Fun fact: there is none, deal with it.
 
 - Website: (UNDER CONSTRUCTION)
-- Gitlab profile:
+- Gitlab profile: https://gitlab.com/kame-saiyan
 - BitBucket profile: (none currently)
   
