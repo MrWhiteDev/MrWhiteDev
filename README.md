@@ -9,3 +9,10 @@
 
  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=that-saiyan)
 
+ [
+  {
+    "quote": "Scientists love lasers.",
+    "author": "Saul Goodman"
+  }
+]
+
